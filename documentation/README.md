@@ -1,1 +1,2 @@
-This folder is for storing and describing documentation.
+This folder is for storing and describing documentation. 
+
